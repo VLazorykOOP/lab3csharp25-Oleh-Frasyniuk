@@ -1,0 +1,14 @@
+E:\c#_labs\lab_3\lab_2_17\bin\Debug\net9.0\lab_2_17.exe
+E:\c#_labs\lab_3\lab_2_17\bin\Debug\net9.0\lab_2_17.deps.json
+E:\c#_labs\lab_3\lab_2_17\bin\Debug\net9.0\lab_2_17.runtimeconfig.json
+E:\c#_labs\lab_3\lab_2_17\bin\Debug\net9.0\lab_2_17.dll
+E:\c#_labs\lab_3\lab_2_17\bin\Debug\net9.0\lab_2_17.pdb
+E:\c#_labs\lab_3\lab_2_17\obj\Debug\net9.0\lab_2_17.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#_labs\lab_3\lab_2_17\obj\Debug\net9.0\lab_2_17.AssemblyInfoInputs.cache
+E:\c#_labs\lab_3\lab_2_17\obj\Debug\net9.0\lab_2_17.AssemblyInfo.cs
+E:\c#_labs\lab_3\lab_2_17\obj\Debug\net9.0\lab_2_17.csproj.CoreCompileInputs.cache
+E:\c#_labs\lab_3\lab_2_17\obj\Debug\net9.0\lab_2_17.dll
+E:\c#_labs\lab_3\lab_2_17\obj\Debug\net9.0\refint\lab_2_17.dll
+E:\c#_labs\lab_3\lab_2_17\obj\Debug\net9.0\lab_2_17.pdb
+E:\c#_labs\lab_3\lab_2_17\obj\Debug\net9.0\lab_2_17.genruntimeconfig.cache
+E:\c#_labs\lab_3\lab_2_17\obj\Debug\net9.0\ref\lab_2_17.dll
